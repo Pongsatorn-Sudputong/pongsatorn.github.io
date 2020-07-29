@@ -1,0 +1,27 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    width: 800px;
+    height: 445px;
+    margin-top: 0px;
+    background-color: cornflowerblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    margin-top: -50px;
+    background-color: burlywood;
+}
+.topic {
+    text-align: center;
+}
+
+.content {
+    margin-left: 0.5rem;
+}
+
+.topic {
+    font-size: 40px;
+    color: mediumspringgreen;
+}
